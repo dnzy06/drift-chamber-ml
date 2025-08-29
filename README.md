@@ -29,7 +29,7 @@ This project evaluates the performance of classical algorithms versus machine le
 ## Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.10+
 - Conda/Miniconda
 
 ### Setup Environment
