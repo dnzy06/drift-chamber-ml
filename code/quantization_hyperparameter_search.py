@@ -276,7 +276,7 @@ class QuantizationSearcher:
         
         # Define search space
         space = {
-            'total_bits': [8],
+            'total_bits': [6, 8],
             'weight_integer_bits': [2, 3, 4, 5],
             'relu_integer_bits': [2, 3, 4, 5],
             'linear_integer_bits': [2, 3, 4, 5],

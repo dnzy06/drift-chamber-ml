@@ -1,0 +1,4 @@
+,Name,Latency (cycles),DSPs,LUTs,FFs,I/O Type,Input Shape
+0,DNN_8_32_8.keras,11,3399,183726,44946,parallel,500
+1,10_5_0.6_pruned_500_dense_8_32_8_lr=3e-4.h5,9,39,83417,22029,parallel,500
+2,10_5_500_dense_8_32_8_lr=3e-4.h5,11,19,127818,26002,parallel,500
