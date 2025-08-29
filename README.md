@@ -14,8 +14,8 @@ This project evaluates the performance of classical algorithms versus machine le
 │   ├── ml_clustercounts/           # Machine learning approaches
 │   ├── hls4ml_pipeline/        # FPGA synthesis and resource analysis
 │   ├── kaon_pion_separation/    # Performance comparison notebooks
-    ├── quantization_hyperparameter_search.py/    # Hyperparameter search
-    ├── sparsity_vs_performance.py/    # Testing different pruning degrees
+│   ├── quantization_hyperparameter_search.py/    # Hyperparameter search
+│   ├── sparsity_vs_performance.py/    # Testing different pruning degrees
 ├── data/                        # Dataset files (if included)
 ├── data_processing/             # Code for data processing
 ├── models/                      # Trained model files
